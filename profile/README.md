@@ -1,5 +1,3 @@
-# Science Communication Lab
-
 ## SCIENCE
 
 We take a multidisciplinary approach to share the discoveries, methods and culture of science. 
